@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yakoromod:uranium_block"
+    }
+  ],
+  "result": {
+    "item": "yakoromod:uranium",
+    "count": 9
+  }
+}

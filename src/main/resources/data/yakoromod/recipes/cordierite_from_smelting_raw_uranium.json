@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 50,
+  "experience": 5,
+  "group": "cordierite",
+  "ingredient": {
+    "item": "yakoromod:raw_uranium"
+  },
+  "result": "yakoromod:uranium"
+}

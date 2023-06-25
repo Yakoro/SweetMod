@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "yakoromod:uranium"
+    },
+
+  "&": {
+    "item": "minecraft:gunpowder"
+  }
+},
+  "pattern": [
+    "&#&",
+    "#&#",
+    "&#&"
+  ],
+
+  "result": {
+    "item": "yakoromod:uranium_ball"
+  }
+}

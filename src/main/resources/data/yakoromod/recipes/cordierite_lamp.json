@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "yakoromod:cordierite"
+    },
+
+  "&": {
+    "item": "minecraft:glowstone"
+  }
+},
+  "pattern": [
+    "&&&",
+    "&#&",
+    "&&&"
+  ],
+
+  "result": {
+    "item": "yakoromod:cordierite_lamp"
+  }
+}
