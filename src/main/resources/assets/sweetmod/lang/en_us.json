@@ -29,5 +29,16 @@
   "item.sweetmod.beer_bucket": "Beer Bucket",
   "item.sweetmod.acid_bucket": "Acid Bucket",
 
-  "itemGroup.sweetmod.cordierite": "Cordierite Elements"
+  "itemGroup.sweetmod.cordierite": "Cordierite Elements",
+
+
+
+  "itemGroup.sweetmod.sweet": "Sweet Elements",
+
+  "item.sweetmod.flour": "Flour",
+  "item.sweetmod.butter": "Butter",
+  "item.sweetmod.chocobar100": "Chocolate Bar 100%",
+  "item.sweetmod.chocobar70": "Chocolate Bar 70%",
+  "item.sweetmod.cocoabean": "Cocoa bean",
+  "entity.minecraft.villager.cooker": "Cooker"
 }

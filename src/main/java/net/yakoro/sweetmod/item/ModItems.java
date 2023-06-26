@@ -57,6 +57,23 @@ public class ModItems {
     public static final Item INVISIBLE_PROJECTILE = registerItem("invisible_projectile",
             new Item(new FabricItemSettings().group(ItemGroup.MISC).group(ModItemGroup.CORDIERITE)));
 
+
+    public static final Item FLOUR = registerItem("flour",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC).group(ModItemGroup.SWEET)));
+
+    public static final Item BUTTER = registerItem("butter",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC).group(ModItemGroup.SWEET)));
+
+    public static final Item CHOCBAR100 = registerItem("chocobar100",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC).group(ModItemGroup.SWEET)));
+
+    public static final Item CHOCBAR70 = registerItem("chocobar70",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC).group(ModItemGroup.SWEET)));
+
+    public static final Item COCOABEAN = registerItem("cocoabean",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC).group(ModItemGroup.SWEET)));
+
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(SweetMod.MOD_ID, name), item);
     }
