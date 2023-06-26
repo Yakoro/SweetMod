@@ -1,10 +1,10 @@
 {
   "replace": false,
   "values": [
-    "yakoromod:uranium_block",
-    "yakoromod:uranium_ore",
-    "yakoromod:deepslate_uranium_ore",
+    "sweetmod:uranium_block",
+    "sweetmod:uranium_ore",
+    "sweetmod:deepslate_uranium_ore",
 
-    "yakoromod:heal_block"
+    "sweetmod:heal_block"
   ]
 }

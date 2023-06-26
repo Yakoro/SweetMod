@@ -70,7 +70,7 @@ publishing {
 	// See https://docs.gradle.org/current/userguide/publishing_maven.html for information on how to set up publishing.
 	repositories {
 		// Add repositories to publish to here.
-		// Notice: This net.yakoro.yakoromod.block does NOT have the same function as the net.yakoro.yakoromod.block in the top level.
+		// Notice: This net.yakoro.sweetmod.block does NOT have the same function as the net.yakoro.sweetmod.block in the top level.
 		// The repositories here will be used for publishing your artifact, not for
 		// retrieving dependencies.
 	}

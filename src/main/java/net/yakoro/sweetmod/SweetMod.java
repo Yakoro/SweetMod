@@ -10,7 +10,7 @@ import net.yakoro.sweetmod.world.gen.ModOreGeneration;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 public class SweetMod implements ModInitializer {
-	public static final String MOD_ID = "yakoromod";
+	public static final String MOD_ID = "sweetmod";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override

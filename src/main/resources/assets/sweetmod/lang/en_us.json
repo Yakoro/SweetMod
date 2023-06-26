@@ -1,0 +1,33 @@
+{
+  "item.sweetmod.raw_cordierite": "Raw Cordierite",
+  "item.sweetmod.cordierite": "Cordierite",
+  "block.sweetmod.cordierite_ore": "Cordierite Ore",
+  "block.sweetmod.deepslate_cordierite_ore": "Deepslate Cordierite Ore",
+  "block.sweetmod.cordierite_block": "Block of Cordierite",
+  "item.sweetmod.cordierite_sword": "Cordierite Sword",
+  "item.sweetmod.healing_staff": "Healing Staff",
+  "item.sweetmod.cordierite_pickaxe": "Cordierite Pickaxe",
+  "item.sweetmod.explosive_gun": "Explosive Gun",
+  "block.sweetmod.cordierite_lamp": "Cordierite Lamp",
+  "item.sweetmod.totem_of_god": "Totem of god",
+  "item.sweetmod.fire_staff": "Fire Staff",
+
+  "item.sweetmod.uranium_ball": "Uranium Ball",
+  "block.sweetmod.uranium_ore": "Uranium Ore",
+  "block.sweetmod.deepslate_uranium_ore": "Deepslate Uranium Ore",
+  "block.sweetmod.uranium_block": "Block of Uranium",
+  "item.sweetmod.raw_uranium": "Raw Uranium",
+  "item.sweetmod.uranium": "Uranium",
+  "block.sweetmod.heal_block": "Healing Block",
+
+  "entity.minecraft.villager.nurse": "Nurse",
+
+  "item.sweetmod.heartbeetroots": "Heart Beetroots",
+  "item.sweetmod.heartbeetroots_seeds": "Heart Beetroots Seeds",
+  "block.sweetmod.heartbeetroots_crop": "Heart Beetroots Crop",
+
+  "item.sweetmod.beer_bucket": "Beer Bucket",
+  "item.sweetmod.acid_bucket": "Acid Bucket",
+
+  "itemGroup.sweetmod.cordierite": "Cordierite Elements"
+}

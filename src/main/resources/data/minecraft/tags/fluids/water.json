@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "yakoromod:beer",
-    "yakoromod:flowing_beer"
+    "sweetmod:beer",
+    "sweetmod:flowing_beer"
   ]
 }

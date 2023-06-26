@@ -1,14 +1,14 @@
 {
   "replace": false,
   "values": [
-    "yakoromod:cordierite_block",
-    "yakoromod:cordierite_ore",
-    "yakoromod:deepslate_cordierite_ore",
+    "sweetmod:cordierite_block",
+    "sweetmod:cordierite_ore",
+    "sweetmod:deepslate_cordierite_ore",
 
-    "yakoromod:uranium_block",
-    "yakoromod:uranium_ore",
-    "yakoromod:deepslate_uranium_ore",
+    "sweetmod:uranium_block",
+    "sweetmod:uranium_ore",
+    "sweetmod:deepslate_uranium_ore",
 
-    "yakoromod:heal_block"
+    "sweetmod:heal_block"
   ]
 }

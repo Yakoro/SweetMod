@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "yakoromod:acid",
-    "yakoromod:flowing_acid"
+    "sweetmod:acid",
+    "sweetmod:flowing_acid"
   ]
 }

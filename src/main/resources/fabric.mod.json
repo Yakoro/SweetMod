@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "yakoromod",
+  "id": "sweetmod",
   "version": "${version}",
 
-  "name": "Yakoro Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Sweet Mod",
+  "description": "Add more sugar in Minecraft !",
   "authors": [
     "Yakoro"
   ],
@@ -19,14 +19,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.yakoro.yakoromod.YakoroMod"
+      "net.yakoro.sweetmod.SweetMod"
     ],
     "client": [
-      "net.yakoro.yakoromod.YakoroModClient"
+      "net.yakoro.sweetmod.SweetModClient"
     ]
   },
   "mixins": [
-    "yakoromod.mixins.json"
+    "sweetmod.mixins.json"
   ],
 
   "depends": {
